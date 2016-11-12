@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main5"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/back4"
+    android:orientation="vertical"
+    tools:context="com.example.microsoftsurface.jalase6.Main5Activity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFF">
+
+        <Button
+            android:layout_marginLeft="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sign"
+            android:background="@android:color/white"/>
+    </RelativeLayout>
+
+    <Button
+        android:layout_marginTop="100dp"
+        android:layout_gravity="center"
+        android:layout_width="320dp"
+        android:layout_height="55dp"
+        android:background="@drawable/button4"
+        android:drawableLeft="@drawable/facebook1"
+        android:paddingLeft="14dp"
+        android:text="@string/Facebook"
+        android:textSize="20dp"
+        android:drawablePadding="-20dp"
+        />
+    <Button
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:layout_width="320dp"
+        android:layout_height="55dp"
+        android:background="@drawable/button4"
+        android:drawableLeft="@drawable/googleplus"
+        android:paddingLeft="14dp"
+        android:text="@string/Google"
+        android:textSize="20dp"
+        android:drawablePadding="-20dp"
+        />
+    <Button
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:layout_width="320dp"
+        android:layout_height="55dp"
+        android:background="@drawable/button5"
+        android:paddingLeft="14dp"
+        android:text="@string/Email1"
+        android:textSize="20dp"
+        />
+
+    <TextView
+        android:layout_marginTop="-80dp"
+        android:gravity="center"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:textSize="18dp"
+       android:textColor="#FFFF"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/Text5"/>
+</LinearLayout>

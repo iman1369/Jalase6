@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Jalase6</string>
+    <string name="Start">Start Exploring</string>
+    <string name="Text">Search for your next threehouse ,Castle, or private island</string>
+    <string name="Text1">No Wish Lists Yet</string>
+    <string name="Wish">Wish Lists</string>
+    <string name="Invite">Invite Friends</string>
+    <string name="dollar"> Give your friend $25 an Airbnb, and get $25 when they travel.</string>
+    <string name="Terms">Terms &amp; Condition</string>
+    <string name="InviteC">Invite Contacts</string>
+    <string name="or">Or</string>
+    <string name="Share">Share your link</string>
+    <string name="Share1">RRASZKA</string>
+    <string name="Login">Log in</string>
+    <string name="Email">EMAIL ADDRESS</string>
+    <string name="Forget_Password">Forget Password</string>
+    <string name="View">View Past Invites</string>
+    <string name="Back">&lt;</string>
+    <string name="Forward">&gt;</string>
+    <string name="Password">PASSWORD</string>
+    <string name="Show_Password">Show</string>
+    <string name="Text3">We can let you know when someone messages you , or notify you about other important account activity.</string>
+    <string name="Turnon">Turn on notification?</string>
+    <string name="Notify">Yes , Notify Me</string>
+    <string name="No">No</string>
+    <string name="sign">&lt;    Sign in or create an Account</string>
+    <string name="Facebook">Facebook</string>
+    <string name="Google">Google</string>
+    <string name="Email1">Email</string>
+    <string name="Text5">We promise we wont post anything to your wall unless you ask us to.</string>
+</resources>
